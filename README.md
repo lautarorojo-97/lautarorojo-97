@@ -1,5 +1,4 @@
-### Hola, soy Lautaro 👋 | Estudiante de Sistemas en UNAHUR
-
+### Hola, soy Lautaro 👋 | Lic. en Informática en UNAHUR
 - 💻 Java | POO | Git | HTML/CSS | SQL
 - 🌱 Terminando POO2 y aprendiendo Spring Boot para backend
 - 🚀 Buscando mi primera experiencia como Java Developer
